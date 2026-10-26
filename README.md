@@ -1,4 +1,4 @@
-# OptiMeasure: Real-Time Computer Vision Dimensioning
+# Real-Time Computer Vision Dimensioning
 
 ![OptiMeasure Demo](assets/Screenshot.png)
 
